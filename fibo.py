@@ -29,4 +29,5 @@ def palindrome(string):
         print("Your entry is not a palindrome.")
         print(reverse)
 
+# Testing Git
 
